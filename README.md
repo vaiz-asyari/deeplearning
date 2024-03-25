@@ -25,6 +25,6 @@ This research refers to a book written by Basuki Rahmat and Budi Nugroho entitle
 <br>
 <img src="./Cover_DL.jpg" height="350rm">
 <br>
-In the current study, the author will use deep learning to predict the highest prevalence of stunting in East Java
+In the current research, the author will use deep learning to predict the highest prevalence of stunting in East Java
 </div>
 
