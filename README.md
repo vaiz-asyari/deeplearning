@@ -67,13 +67,65 @@ So according to the equation of the Sigmoid activation function, the output of t
 
 # System Implementation
 <div align="justify">
-System implementation for prediction of prevelance stunting in East Java uses Python with this Deep Learning, for Training Phase, realized according to the following sequence of steps (can be viewed on file DLStunting.ipyb).
+System implementation for prediction of prevelance stunting in East Java uses Python with this Deep Learning, realized according to the following sequence of steps (can be viewed on file DLStunting.ipynb).
+<br>
 1) Data Preparation.
+  <br>
 2) Keras Model Determination.
-3) Hard Model Compilation.
+  <br>
+3) Keras Model Compilation.
+  <br>
 4) Hard Model Adjustment.
-5) Hard Model Evaluation.
-6) Prediction making.
+  <br>
+  </div>
+  <div align="middle">
+    <img src="./Epoch.png" height="200rm">
+  </div>
+  <br>
+  <div align="justify">
+  Decreased loss in the form of MSE during the training process
+  <br>
+5) Keras Model Evaluation.
+6) Prediction making (Training Phase).
+<br>
+  </div>
+  <div align="middle">
+    <img src="./Training.png" height="200rm">
+    <img src="./TrainingError.png" height="200rm">
+  </div>
+  <br>
+  <div align="justify">
+Training Phase Deep Learning performance results
+<br>
+mse = 0.3270974082216037
+    <br>
+rmse = 0.5719243028772284
+    <br>
+MAPE = 25.775215449695022
+    <br>
+Percentage of Success = 74.22478455030497
+  </div>
+  <br>
+6) Prediction making (Testing Phase).
+<br>
+  </div>
+  <div align="middle">
+    <img src="./Testing.png" height="200rm">
+    <img src="./TestingError.png" height="200rm">
+  </div>
+  <br>
+  <div align="justify">
+Testing Phase Deep Learning performance results
+<br>
+mse = 2.2277787437836287
+  <br>
+rmse = 1.492574535419799
+  <br>
+MAPE = 32.191098377029874
+  <br>
+Percentage of Success = 67.80890162297013
+  </div>
+  
 
 
 
