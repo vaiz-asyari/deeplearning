@@ -53,6 +53,6 @@ This design is as shown in the following figure.
 <br>
 </div>
 <div align="middle">
-<img src="./TimeSeries.png" height="350rm">
+<img src="./TimeSeries.png" height="250rm">
 </div>
 
