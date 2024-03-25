@@ -36,19 +36,19 @@ In the current research, the author will use deep learning to predict the highes
 # Prediction of The Highest Prevelance Stunting
 # Model Data Structure
 <div align="justify">
-The dataset used in this study is data obtained from the East Java Health Office. The data taken are data in 2019-2022. Of these data, some are used for the Training Phase and the rest
+The dataset used in this study is data obtained from the East Java Health Office. The data taken are data in 2020-2022. Of these data, some are used for the Training Phase and the rest
 for the Prediction Testing Phase. Stunting Data used for the Training Phase
-(Training Data), namely TPT data from 2019 to 2021 for
+(Training Data), namely Stunting data from 2020 to 2021 for
 predicting stunting from January 2022 to June 2022. While the stunting data used
 for the Test Phase (Test Data), it only needs to be shifted in the next six months, namely data
-Stunting from July 2019 to June 2022 to predict stunting from July 2022 to December 2022.
+Stunting from July 2020 to June 2022 to predict stunting from July 2022 to December 2022.
 Thus, the need for this prediction system, designed to predict
 Stunting in the next six months, based on stunting data from the previous two years.
-If each stunting data is bi-annual throughout 2019 up to
+If each stunting data is bi-annual throughout 2020 up to
 2021 was grouped, then four groups were obtained for six months. In a way that
 similarly, for the predicted six-month stunting data is used as a prediction group.
 This design is then used as a system model, which is a system with four
-input and one output. So that the structure of the Train Data and Test Data models, is appropriate
+input and one output. So that the structure of the Training Data and Testing Data models, is appropriate
 This design is as shown in the following figure.
 <br>
 </div>
