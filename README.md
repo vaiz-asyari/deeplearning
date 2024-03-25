@@ -79,7 +79,7 @@ System implementation for prediction of prevelance stunting in East Java uses Py
   <br>
   </div>
   <div align="middle">
-    <img src="./documentation/Epoch1.png" height="350rm">
+    <img src="./documentation/Epoch1.png" height="300rm">
   </div>
   <br>
   <div align="justify">
