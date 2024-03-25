@@ -23,7 +23,10 @@ Deep learning drives many applications and services that improve automation, per
 # Reference
 This research refers to a book written by Basuki Rahmat and Budi Nugroho entitled "Pemrograman Deep Learning Dengan Python" (Deep Learning Programming with Python). The book uses deep learning to predict the Open Unemployment Rate (Tingkat Pengangguran Terbuka - TPT) in Indonesia. Research can be seen at https://github.com/bsrahmat/dl
 <br>
+</div>
+<div align="middle">
 <img src="./Cover_DL.jpg" height="350rm">
+</div>
 <br>
 In the current research, the author will use deep learning to predict the highest prevalence of stunting in East Java
 </div>
