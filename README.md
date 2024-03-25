@@ -10,7 +10,8 @@ Based on the background of the problem and previous research that has been descr
 
 # Deep Learning
 <div align="justify">
-According to https://www.ibm.com/topics/deep-learning
+According to https://www.ibm.com/topics/deep-learning 
+<br>
 Deep learning is a subset of machine learning that uses multi-layered neural networks, called deep neural networks, to simulate the complex decision-making power of the human brain. Some form of deep learning powers most of the artificial intelligence (AI) in our lives today.
 <br>
 By strict definition, a deep neural network, or DNN, is a neural network with three or more layers. In practice, most DNNs have many more layers. DNNs are trained on large amounts of data to identify and classify phenomena, recognize patterns and relationships, evaluate posssibilities, and make predictions and decisions. While a single-layer neural network can make useful, approximate predictions and decisions, the additional layers in a deep neural network help refine and optimize those outcomes for greater accuracy.
@@ -18,3 +19,10 @@ By strict definition, a deep neural network, or DNN, is a neural network with th
 Deep learning drives many applications and services that improve automation, performing analytical and physical tasks without human intervention. It lies behind everyday products and services—e.g., digital assistants, voice-enabled TV remotes,  credit card fraud detection—as well as still emerging technologies such as self-driving cars and generative AI. 
 <br>
 </div>
+
+# Reference
+This research refers to a book written by Basuki Rahmat and Budi Nugroho entitled "Pemrograman Deep Learning Dengan Python" (Deep Learning Programming with Python). The book uses deep learning to predict the Open Unemployment Rate (Tingkat Pengangguran Terbuka - TPT) in Indonesia. Research can be seen at https://github.com/bsrahmat/dl
+<br>
+<img src="./Cover_DL.jpg" height="500rm">
+</div>
+
