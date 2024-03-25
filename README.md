@@ -26,7 +26,7 @@ This research refers to a book written by Basuki Rahmat and Budi Nugroho entitle
 <br>
 </div>
 <div align="middle">
-<img src="./Cover_DL.jpg" height="350rm">
+<img src="./documentation/Cover_DL.jpg" height="350rm">
 </div>
 <br>
 <div align="justify">
@@ -53,7 +53,7 @@ This design is as shown in the following figure.
 <br>
 </div>
 <div align="middle">
-<img src="./TimeSeries.png" height="250rm">
+<img src="./documentation/TimeSeries.png" height="250rm">
 </div>
 
 # Normalization
@@ -62,7 +62,7 @@ The data used for the Stunting prediction system is expressed in percent. The va
 So according to the equation of the Sigmoid activation function, the output of this node, is a value between 0 to 1. Therefore, this stunting data needs to be normalized. In order to enter the range of Deep Learning capabilities. Later, if it will be compared with the actual desired stunting target or value, the predicted output results from Deep Learning must be denormalized first. For data normalization purposes, use the following equation.
 </div>
 <div align="middle">
-<img src="./Normal.png" height="200rm">
+<img src="./documentation/Normal.png" height="200rm">
 </div>
 
 # System Implementation
@@ -79,7 +79,7 @@ System implementation for prediction of prevelance stunting in East Java uses Py
   <br>
   </div>
   <div align="middle">
-    <img src="./Epoch.png" height="200rm">
+    <img src="./documentation/Epoch.png" height="350rm">
   </div>
   <br>
   <div align="justify">
@@ -90,8 +90,8 @@ System implementation for prediction of prevelance stunting in East Java uses Py
 <br>
   </div>
   <div align="middle">
-    <img src="./Training.png" height="200rm">
-    <img src="./TrainingError.png" height="200rm">
+    <img src="./documentation/Training.png" height="350rm">
+    <img src="./documentation/TrainingError.png" height="350rm">
   </div>
   <br>
   <div align="justify">
@@ -110,8 +110,8 @@ Percentage of Success = 74.22478455030497
 <br>
   </div>
   <div align="middle">
-    <img src="./Testing.png" height="200rm">
-    <img src="./TestingError.png" height="200rm">
+    <img src="./documentation/Testing.png" height="350rm">
+    <img src="./documentation/TestingError.png" height="350rm">
   </div>
   <br>
   <div align="justify">
