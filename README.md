@@ -79,7 +79,7 @@ System implementation for prediction of prevelance stunting in East Java uses Py
   <br>
   </div>
   <div align="middle">
-    <img src="./documentation/Epoch.png" height="350rm">
+    <img src="./documentation/Epoch1.png" height="350rm">
   </div>
   <br>
   <div align="justify">
@@ -90,40 +90,40 @@ System implementation for prediction of prevelance stunting in East Java uses Py
 <br>
   </div>
   <div align="middle">
-    <img src="./documentation/Training.png" height="350rm">
-    <img src="./documentation/TrainingError.png" height="350rm">
+    <img src="./documentation/Training1.png" height="300rm">
+    <img src="./documentation/TrainingError1.png" height="300rm">
   </div>
   <br>
   <div align="justify">
 Training Phase Deep Learning performance results
 <br>
-mse = 0.3270974082216037
+mse = 0.1658680376634538
     <br>
-rmse = 0.5719243028772284
+rmse = 0.40726899914362963
     <br>
-MAPE = 25.775215449695022
+MAPE = 24.816914597339423
     <br>
-Percentage of Success = 74.22478455030497
+Percentage of Success = 75.18308540266058
   </div>
   <br>
 6) Prediction making (Testing Phase).
 <br>
   </div>
   <div align="middle">
-    <img src="./documentation/Testing.png" height="350rm">
-    <img src="./documentation/TestingError.png" height="350rm">
+    <img src="./documentation/Testing1.png" height="300rm">
+    <img src="./documentation/TestingError1.png" height="300rm">
   </div>
   <br>
   <div align="justify">
 Testing Phase Deep Learning performance results
 <br>
-mse = 2.2277787437836287
-  <br>
-rmse = 1.492574535419799
-  <br>
-MAPE = 32.191098377029874
-  <br>
-Percentage of Success = 67.80890162297013
+mse = 2.708959890345728
+    <br>
+rmse = 1.6458918221881194
+    <br>
+MAPE = 23.63043623557184
+    <br>
+Percentage of Success = 76.36956376442816
   </div>
   
 
