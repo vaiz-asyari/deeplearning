@@ -65,5 +65,15 @@ So according to the equation of the Sigmoid activation function, the output of t
 <img src="./Normal.png" height="200rm">
 </div>
 
+# System Implementation
+<div align="justify">
+System implementation for prediction of prevelance stunting in East Java uses Python with this Deep Learning, for Training Phase, realized according to the following sequence of steps (can be viewed on file DLStunting.ipyb).
+1) Data Preparation.
+2) Keras Model Determination.
+3) Hard Model Compilation.
+4) Hard Model Adjustment.
+5) Hard Model Evaluation.
+6) Prediction making.
+
 
 
