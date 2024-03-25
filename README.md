@@ -30,6 +30,7 @@ In the current research, the author will use deep learning to predict the highes
 
 # Prediction of The Highest Prevelance Stunting
 # Model Data Structure
+<div align="justify">
 The dataset used in this study is data obtained from the East Java Health Office. The data taken are data in 2019-2022. Of these data, some are used for the Training Phase and the rest
 for the Prediction Testing Phase. Stunting Data used for the Training Phase
 (Training Data), namely TPT data from 2019 to 2021 for
