@@ -62,7 +62,7 @@ The data used for the Stunting prediction system is expressed in percent. The va
 So according to the equation of the Sigmoid activation function, the output of this node, is a value between 0 to 1. Therefore, this stunting data needs to be normalized. In order to enter the range of Deep Learning capabilities. Later, if it will be compared with the actual desired stunting target or value, the predicted output results from Deep Learning must be denormalized first. For data normalization purposes, use the following equation.
 </div>
 <div align="middle">
-<img src="./Normalization.png" height="200rm">
+<img src="./Normal.png" height="200rm">
 </div>
 
 
