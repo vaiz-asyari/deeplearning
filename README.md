@@ -46,6 +46,8 @@ This design is then used as a system model, which is a system with four
 input and one output. So that the structure of the Train Data and Test Data models, is appropriate
 This design is as shown in the following figure.
 <br>
+</div>
+<div align="middle">
 <img src="./TimeSeries.png" height="350rm">
 </div>
 
