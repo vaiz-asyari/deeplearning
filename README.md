@@ -86,7 +86,6 @@ System implementation for prediction of prevelance stunting in East Java uses Py
   Decreased loss in the form of MSE during the training process
   <br>
 5) Keras Model Evaluation.
-6) Prediction making (Training Phase).
 <br>
   </div>
   <div align="middle">
